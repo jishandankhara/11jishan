@@ -19,7 +19,7 @@ void main()
    *a = j;
  
    printf("After Swapping:\n");
-    printf("x=%d\ns",x); 
+    printf("x=%d\n",x); 
 	printf("y=%d",y);
 }
  
